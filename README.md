@@ -10,7 +10,7 @@ Our project involves utilizing deep learning techniques to create Monet-inspired
 
 ## Colab notebook structure:
 
-Link to the train colab notebook (https://colab.research.google.com/drive/1m5wU8lYFYlx7rGCANmrLA2T3JM7HnxwX?usp=sharing)
+Link to the train colab notebook (https://colab.research.google.com/drive/1eo1SebGTWmZGYwd7NeUekpKRtKbnLta_?usp=sharing)
 
 The train notebook is divided to 3 parts, data and 2 architectures: CycleGan and Neural Style Transfer using VGG.
 
